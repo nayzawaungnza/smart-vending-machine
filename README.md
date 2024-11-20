@@ -1,7 +1,7 @@
 # Smart Vending Machine
 
 
-### 5. Access the Application
+### Access the Application
 
 Once the server is running, open the web browser and go to:
 
@@ -9,7 +9,7 @@ Once the server is running, open the web browser and go to:
 
 This will display the product listing page.
 
-### 6. Access the Deployed Application
+### Access the Deployed Application
 
 Access the Deployed Application at: 
 
